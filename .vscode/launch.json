@@ -1,0 +1,23 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Launch Main",
+      "request": "launch",
+      "mainClass": "Main",
+      "projectName": "my_ls_99d0be62"
+    },
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": true,
+      "externalConsole": false,
+      "cwd": "/Users/dilshodjonhaydarov/Desktop/my_ls",
+      "program": "/Users/dilshodjonhaydarov/Desktop/my_ls/build/Debug/outDebug",
+      "MIMode": "gdb"
+    }
+  ]
+}
